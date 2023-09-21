@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oleg Bulygin</h1>
 <h3 align="center">Data scientist, analyst, developer. Author and speaker of IT courses.</h3>
-<br>
+
 I help people master data science, analytics, Python development, statistics, SQL, databases. I regularly collaborate with educational platforms such as Netology, Yandex Practicum, SkillFactory, MathsHub.
 - 📝 I regularly write articles on [https://t.me/pythontalk_ru](https://t.me/pythontalk_ru)
-- 📫 How to reach me: **https://t.me/obulygin91**
-<br>
-## 🌐 Socials:
+- 📫 How to reach me: https://t.me/obulygin91
+
+
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/obulygin91) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/obulygin) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obulygin" alt="obulygin" /></a> </p>
