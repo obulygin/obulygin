@@ -1,35 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oleg Bulygin
-====================================================================================================================================
-
-Data scientist, analyst, developer. Author and speaker of IT courses.
----------------------------------------------------------------------
-
+### Hi there 👋, my name is Oleg
+#### I am data scientist, analyst, developer, author and speaker of IT courses.
 I help people master data science, analytics, Python development, statistics, SQL, databases. I regularly cooperate with educational platforms such as Netology, Yandex Practicum, SkillFactory, MathsHub.
 
-* 🌍  I'm based in Ekaterinburg
-* ✉️  You can contact me at [obulygin91@ya.ru](mailto:obulygin91@ya.ru)
+Skills: Python / Data Science / Analytics / R / SQL
 
-<a href="https://www.github.com/obulygin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/obulygin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
+- 🔭 I’m currently working on this page. 
+- 📫 How to reach me: https://t.me/obulygin91 
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/obulygin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/obulygin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/obulygin91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://teletype.in/@pythontalk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/pythontalk_ru)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=obulygin)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Socials
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obulygin)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://www.facebook.com/obulygin091" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/obulygin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/obulygin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=obulygin&show_icons=true)  
 
-### Badges
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=obulygin)  
 
-<b>My GitHub Stats</b>
+![GitHub metrics](https://metrics.lecoq.io/obulygin)  
 
-<a href="http://www.github.com/obulygin"><img src="https://github-readme-stats.vercel.app/api?username=obulygin&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="obulygin's GitHub stats" /></a>
-
-<a href="http://www.github.com/obulygin"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=obulygin&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/obulygin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obulygin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Profile views](https://gpvc.arturio.dev/obulygin)  
