@@ -1,23 +1,24 @@
-### Hi there 👋, my name is Oleg
-#### I am data scientist, analyst, developer, author and speaker of IT courses.
-I help people master data science, analytics, Python development, statistics, SQL, databases. I regularly cooperate with educational platforms such as Netology, Yandex Practicum, SkillFactory, MathsHub.
+<h1 align="center">Hi 👋, I'm Oleg Bulygin</h1>
+<h3 align="center">Data scientist, analyst, developer. Author and speaker of IT courses.</h3>
 
-Skills: Python / Data Science / Analytics / R / SQL
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=obulygin&label=Profile%20views&color=0e75b6&style=flat" alt="obulygin" /> </p>
 
-- 🔭 I’m currently working on this page. 
-- 📫 How to reach me: https://t.me/obulygin91 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obulygin" alt="obulygin" /></a> </p>
 
+- 📝 I regularly write articles on [https://t.me/pythontalk_ru](https://t.me/pythontalk_ru)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/obulygin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/obulygin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/obulygin91)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://teletype.in/@pythontalk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/pythontalk_ru)  
+- 📫 How to reach me **@obulygin91**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=obulygin)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/obulygin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obulygin" height="30" width="40" /></a>
+<a href="https://fb.com/obulygin91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obulygin91" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obulygin)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=obulygin&show_icons=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obulygin&show_icons=true&locale=en&layout=compact" alt="obulygin" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=obulygin)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obulygin&show_icons=true&locale=en" alt="obulygin" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/obulygin)  
-
-![Profile views](https://gpvc.arturio.dev/obulygin)  
