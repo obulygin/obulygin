@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg Bulygin</h1>
 <h3 align="center">Data scientist, analyst, developer. Author and speaker of IT courses.</h3>
 
-I help people master data science, analytics, Python development, statistics, SQL, databases. I regularly collaborate with educational platforms such as Netology, Yandex Practicum, SkillFactory, MathsHub.
+I help people master data science, analytics, Python development, statistics, SQL, databases. I regularly collaborate with educational platforms such as Netology, Yandex Practicum, SkillFactory, MathsHub.</br>
 📝 I have Telegram channel about Python: [PythonTalk](https://t.me/pythontalk_ru)
 📫 You can reach me on [Telegram](https://t.me/obulygin91) or [LinkedIn](https://www.linkedin.com/in/obulygin/): 
 
