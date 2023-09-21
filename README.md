@@ -3,7 +3,7 @@
 
 I help people master data science, analytics, Python development, statistics, SQL, databases. I regularly collaborate with educational platforms such as Netology, Yandex Practicum, SkillFactory, MathsHub.<br/>
 📝 I have Telegram channel about Python: [PythonTalk](https://t.me/pythontalk_ru)<br/>
-📫 You can reach me on [Telegram](https://t.me/obulygin91) or [LinkedIn](https://www.linkedin.com/in/obulygin/): 
+📫 You can reach me on [Telegram](https://t.me/obulygin91) or [LinkedIn](https://www.linkedin.com/in/obulygin/).
 
 
 # 💻 Tech Stack:
