@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://t.me/pythontalk_ru](https://t.me/pythontalk_ru)
 
-- 📫 How to reach me **@obulygin91**
+- 📫 How to reach me: **https://t.me/obulygin91**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
